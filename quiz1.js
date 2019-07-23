@@ -69,13 +69,20 @@ let questions = [
         correct : "A"
     },{
         question : "Who is a Hacker?",
-        imgSrc : "img/iot.jpg",
+        imgSrc : "img/hacker2.jpg",
         choiceA : "A person who cuts trees",
         choiceB : "A person who accesses computer networks illegally.",
         choiceC : "An I.T personnel",
         correct : "B"
     }
-  
+  ,{
+        question : "Who controls the Internet?",
+        imgSrc : "img/www.png",
+        choiceA : "Bill Gates",
+        choiceB : "The Internet is not centralized",
+        choiceC : "The U.S Army",
+        correct : "B"
+    }
 
 ];
 
