@@ -44,13 +44,36 @@ let questions = [
         choiceB : "Cascading Style Sheets",
         choiceC : "Cascading Sheets of Style",
         correct : "B"
-    },{
+    },
+    {
+        question : "What is this cable used for?",
+        imgSrc : "img/ethernet.jpg",
+        choiceA : "Connecting humans to each other",
+        choiceB : "Swing from trees",
+        choiceC : "Connecting PCs",
+        correct : "C"
+    },
+    {
         question : "What does JS stand for?",
         imgSrc : "img/js.png",
         choiceA : "JavaSyntax",
         choiceB : "Javasmith",
         choiceC : "Javascript",
         correct : "C"
+    },{
+        question : "What is IOT?",
+        imgSrc : "img/iot.jpg",
+        choiceA : "Internet Of Things",
+        choiceB : "International Organization of Thieves ",
+        choiceC : "In Out Things",
+        correct : "A"
+    },{
+        question : "Who is a Hacker?",
+        imgSrc : "img/iot.jpg",
+        choiceA : "A person who cuts trees",
+        choiceB : "A person who accesses computer networks illegally.",
+        choiceC : "An I.T personnel",
+        correct : "B"
     }
   
 
