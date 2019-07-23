@@ -82,6 +82,14 @@ let questions = [
         choiceB : "The Internet is not centralized",
         choiceC : "The U.S Army",
         correct : "B"
+    },
+    {
+        question : "What is GitHub used for?",
+        imgSrc : "img/git.jpg",
+        choiceA : "Project Management",
+        choiceB : "Playing games online",
+        choiceC : "It's an email client",
+        correct : "A"
     }
 
 ];

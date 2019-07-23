@@ -13,7 +13,7 @@ session_start();
 </head>
 <body>
     <div id="container">
-        <div id="start"><?php echo "Hello " . $_SESSION['username'] . '! ' . "Begin Quiz!" ;  ?> </div>
+        <div id="start"><?php echo "Hello " . $_SESSION['username'] . '! ' . "Begin Quiz!" ;  ?>  </div>
         <div id="quiz" style="display: none">
             <div id="question"></div>
             <div id="qImg"></div>
