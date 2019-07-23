@@ -184,11 +184,15 @@ function checkAnswer(answer){
 // answer is correct
 function answerIsCorrect(){
     document.getElementById(runningQuestion).style.backgroundColor = "#0f0";
+    var audio = new Audio('sounds/success.wav');
+    audio.play();
 }
 
 // answer is Wrong
 function answerIsWrong(){
     document.getElementById(runningQuestion).style.backgroundColor = "#f00";
+    var audio = new Audio('sounds/failure.wav');
+    audio.play();
 }
 
 // score render
