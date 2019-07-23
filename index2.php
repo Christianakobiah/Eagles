@@ -8,7 +8,7 @@ session_start();
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Quiz</title>
+    <title>Eagles' Quiz App</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
