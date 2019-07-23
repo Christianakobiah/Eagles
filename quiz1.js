@@ -188,7 +188,7 @@ function answerIsCorrect(){
     audio.play();
 }
 
-// answer is Wrong
+// answer is Wrong.
 function answerIsWrong(){
     document.getElementById(runningQuestion).style.backgroundColor = "#f00";
     
