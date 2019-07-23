@@ -28,6 +28,20 @@ body{
     top:100px;
     color : 	#800000;
 }
+/* #change{
+    font-size: 1.5em;
+    font-weight: bolder;
+    word-break: break-all;
+    width:500px;
+    height:150px;
+    text-align: center;
+    cursor: pointer;
+    position: absolute;
+    left:100px;
+    top:250px;
+    color :#800000;
+    background-color:#4897D8;
+} */
 #start:hover{
     border: 3px solid lightseagreen;
     color : lightseagreen;

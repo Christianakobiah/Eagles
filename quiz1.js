@@ -10,6 +10,7 @@ const counter = document.getElementById("counter");
 const timeGauge = document.getElementById("timeGauge");
 const progress = document.getElementById("progress");
 const scoreDiv = document.getElementById("scoreContainer");
+const change = document.getElementById("change");
 
 // create our questions
 let questions = [
@@ -121,6 +122,7 @@ start.addEventListener("click",startQuiz);
 // start quiz
 function startQuiz(){
     start.style.display = "none";
+    change.style.display = "none";
     renderQuestion();
     quiz.style.display = "block";
     renderProgress();
