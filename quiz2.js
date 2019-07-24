@@ -33,7 +33,7 @@ let questions = [
     },
     {
         question : "What device is this?",
-        imgSrc : "img/3Dprinter.jpg",
+        imgSrc : "img/3DPrinter.jpg",
         choiceA : "Play Box",
         choiceB : "System Unit",
         choiceC : "3D Printer",

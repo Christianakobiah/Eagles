@@ -14,9 +14,8 @@ session_start();
 </head>
 <body>
 <div class="container">
-<div class=""><?php echo "Hello " . $_SESSION['username'] . " these are the answers to the questions you had wrong." ?></div>
-<div id="wrong">
-p.answer * 10
+<div class=""><?php echo "Hello " . $_SESSION['username'] . " these are the answers to all the questions" ?></div>
+<div id="answers">
 
 
 </div>
