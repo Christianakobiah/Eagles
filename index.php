@@ -38,7 +38,7 @@ $_SESSION['username'] = $_POST['username'];
 -->
 
                 <label for="studentnumber">Enter your Name:</label>
-                <input type="text" placeholder="Enter Your Name" name="username" required autofocus>
+                <input type="text" placeholder="Enter Your Name" pattern = "[A-Za-z]"  name="username" required autofocus>
 
                 <!-- <label for="password">Password:</label>
                 <input type="password" name="password" required autofocus>

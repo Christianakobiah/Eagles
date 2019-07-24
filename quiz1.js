@@ -95,6 +95,19 @@ let questions = [
 
 ];
 
+//user can opt to move forward to another difficulty level
+let stage2 = [
+];
+
+
+
+
+
+
+
+
+
+
 // create some variables
 
 const lastQuestion = questions.length - 1;
