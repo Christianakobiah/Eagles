@@ -59,7 +59,7 @@ let questions = [
         imgSrc : "img/Silval.png",
         choiceA : "Google",
         choiceB : "Apple",
-        choiceC : "IBM",
+        choiceC : "Cisco",
         correct : "C"
     },{
         question : "Which company invented the GUI?",
