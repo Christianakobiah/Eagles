@@ -10,6 +10,7 @@ const counter = document.getElementById("counter");
 const timeGauge = document.getElementById("timeGauge");
 const progress = document.getElementById("progress");
 const scoreDiv = document.getElementById("scoreContainer");
+const wrong = document.getElementById("wrong");
 
 // create our questions
 let questions = [
@@ -210,25 +211,12 @@ function scoreRender(){
     
     scoreDiv.innerHTML = "<img src="+ img +">";
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
+
+   
 }
 
 
-//load answers to failed questions on a different page.
-function loadAnswers(){
 
-for(i=0; i < question.length; i++){
-    if(answerIsWrong()){
-        correctAns = question[i].correct;
-        
-
-        
- }
-
-
-}
-
-
-}
 
 
 
