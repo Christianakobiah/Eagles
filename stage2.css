@@ -1,7 +1,7 @@
 body{
     font-size: 20px;
     font-family: monospace;
-    background: url('img/colorexplo.jpg') center ;
+    background: url('img/explo.jpg') center ;
     /* background-color: #b92e34 ; */
 }
 
@@ -14,7 +14,7 @@ body{
     box-shadow: 0px 5px 15px 0px;
     position: relative;
 }
-#start{
+#start1{
     font-size: 1.5em;
     font-weight: bolder;
     word-break: break-all;
@@ -42,45 +42,45 @@ body{
     color :#800000;
     background-color:#4897D8;
 } */
-#start:hover{
+#start1:hover{
     border: 3px solid lightseagreen;
     color : lightseagreen;
 }
 
-#qImg{
+#qImg1{
     width : 200px;
     height : 200px;
     position: absolute;
     left : 0px;
     top : 0px;
 }
-#qImg img{
+#qImg1 img{
     width : 200px;
     height : 200px;
     border-top-left-radius: 5px;
 }
 
-#question{
+#question1{
     width:500px;
     height : 125px;
     position: absolute;
     right:0;
     top:0;
 }
-#question p{
+#question1 p{
     margin : 0;
     padding : 15px;
     font-size: 1.25em;
 }
 
-#choices{
+#choices1{
     width : 480px;
     position: absolute;
     right : 0;
     top : 125px;
     padding : 10px
 }
-.choice{
+.choice1{
     display: inline-block;
     width : 135px;
     text-align: center;
@@ -89,36 +89,36 @@ body{
     cursor: pointer;
     padding : 5px;
 }
-.choice:hover{
+.choice1:hover{
     border : 2px solid grey;
     font-weight: bold;
 }
 
-#timer{
+#timer1{
     position: absolute;
     height : 100px;
     width : 200px;
     bottom : 0px;
     text-align: center;
 }
-#counter{
+#counter1{
     font-size: 3em;
 }
-#btimeGauge{
+#btimeGauge1{
     width : 150px;
     height : 10px;
     border-radius: 10px;
     background-color: lightgray;
     margin-left : 25px;
 }
-#timeGauge{
+#timeGauge1{
     height : 10px;
     border-radius: 10px;
     background-color: mediumseagreen;
     margin-top : -10px;
     margin-left : 25px;
 }
-#progress{
+#progress1{
     width : 500px;
     position: absolute;
     bottom : 0px;
@@ -126,7 +126,7 @@ body{
     padding:5px;
     text-align: right;
 }
-.prog{
+.prog1{
     width : 25px;
     height : 25px;
     border: 1px solid #000;
@@ -135,7 +135,7 @@ body{
     margin-left : 5px;
     margin-right : 5px;
 }
-#scoreContainer{
+#scoreContainer1{
     margin : 20px auto;
     background-color: white;
     opacity: 0.8;
@@ -146,12 +146,12 @@ body{
     position: relative;
     display: none;
 }
-#scoreContainer img{
+#scoreContainer1 img{
     position: absolute;
     top:100px;
     left:325px;
 }
-#scoreContainer p{
+#scoreContainer1 p{
     position: absolute;
     display: block;
     width : 59px;
@@ -163,20 +163,20 @@ body{
     text-align: center;
 }
 
-#scoreContainer a{
+#scoreContainer1 a{
     position: absolute;
     display: inline;
     /* width : 100px;
     height :59px; */
     top:200px;
     left:150px;
-    font-size: 0.75em;
+    font-size: 1.5em;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
 }
 
-#scoreContainer a:hover{
+#scoreContainer1 a:hover{
     color: white;
     background-color: black;
     border-radius: 5px;
