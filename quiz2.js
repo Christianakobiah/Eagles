@@ -77,19 +77,19 @@ let questions = [
         correct : "B"
     }
   ,{
-        question : "Who",
-        imgSrc : "img/www.png",
-        choiceA : "Bill Gates",
-        choiceB : "The Internet is not centralized",
-        choiceC : "The U.S Army",
-        correct : "B"
+        question : "What languages is the MacOs written in?",
+        imgSrc : "img/macos.jpg",
+        choiceA : "C++, Swift,Obj-C",
+        choiceB : "Python, C, C++",
+        choiceC : "HTML, CSS, Javascript",
+        correct : "A"
     },
     {
-        question : "What is GitHub used for?",
-        imgSrc : "img/git.jpg",
-        choiceA : "Project Management",
-        choiceB : "Playing games online",
-        choiceC : "It's an email client",
+        question : "What protocol is used to access the e-mails on the internet?",
+        imgSrc : "img/mail.png",
+        choiceA : "IMAP",
+        choiceB : "IP Address",
+        choiceC : "Gmail",
         correct : "A"
     }
 
