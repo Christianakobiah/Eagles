@@ -213,7 +213,22 @@ function scoreRender(){
 }
 
 
+//load answers to failed questions on a different page.
+function loadAnswers(){
 
+for(i=0; i < question.length; i++){
+    if(answerIsWrong()){
+        correctAns = question[i].correct;
+        
+
+        
+ }
+
+
+}
+
+
+}
 
 
 
