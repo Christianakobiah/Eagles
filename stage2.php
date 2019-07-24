@@ -12,7 +12,7 @@ session_start();
 </head>
 <body>
     <div id="container">
-        <div id="start1"><?php echo "Hello " . $_SESSION['username'] . '! ' . "Begin Quiz!" ;  ?></div>
+        <div id="start1"><?php echo "Hello " . $_SESSION['username'] . '! ' . "Start Stage 2" ;  ?></div>
         <div id="quiz1" style="display: none">
             <div id="question1"></div>
             <div id="qImg1"></div>
