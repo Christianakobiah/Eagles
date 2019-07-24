@@ -47,37 +47,37 @@ let questions = [
         correct : "B"
     },
     {
-        question : "What is this cable used for?",
-        imgSrc : "img/ethernet.jpg",
-        choiceA : "Connecting humans to each other",
-        choiceB : "Swing from trees",
-        choiceC : "Connecting PCs",
+        question : "Where does the @ symbol come from?",
+        imgSrc : "img/theat.jpg",
+        choiceA : "from Arabic",
+        choiceB : "from Greek",
+        choiceC : "from Latin",
         correct : "C"
     },
     {
-        question : "What does JS stand for?",
-        imgSrc : "img/js.png",
-        choiceA : "JavaSyntax",
-        choiceB : "Javasmith",
-        choiceC : "Javascript",
+        question : "Which I.T company, has it's headquarters in Silicon Valley?",
+        imgSrc : "img/Silval.png",
+        choiceA : "Google",
+        choiceB : "Apple",
+        choiceC : "IBM",
         correct : "C"
     },{
-        question : "What is IOT?",
-        imgSrc : "img/iot.jpg",
-        choiceA : "Internet Of Things",
-        choiceB : "International Organization of Thieves ",
-        choiceC : "In Out Things",
+        question : "Which company invented the GUI?",
+        imgSrc : "img/gui.jpg",
+        choiceA : "Xerox PARC",
+        choiceB : "Apple",
+        choiceC : "Microsoft",
         correct : "A"
     },{
-        question : "Who is a Hacker?",
-        imgSrc : "img/hacker2.jpg",
-        choiceA : "A person who cuts trees",
-        choiceB : "A person who accesses computer networks illegally.",
-        choiceC : "An I.T personnel",
+        question : "When was the first CPU invented?",
+        imgSrc : "img/CPU.jpg",
+        choiceA : "1965",
+        choiceB : "1971",
+        choiceC : "1950",
         correct : "B"
     }
   ,{
-        question : "Who controls the Internet?",
+        question : "Who",
         imgSrc : "img/www.png",
         choiceA : "Bill Gates",
         choiceB : "The Internet is not centralized",
