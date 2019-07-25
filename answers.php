@@ -8,7 +8,7 @@ session_start();
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Correct Answers.</title>
+    <title>Quiz Answers.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="index.css"/>
 </head>
@@ -147,15 +147,135 @@ profiles.
 </div>
 
 <div class = ans>
-<dt>2.What is a database?</dt>
-<dd>Answer: A storage area for all kinds of data.</dd>
-<dd>Explanation: A database is a collection of information that is organized 
-so that it can be easily accessed, managed and updated.
-Computer databases typically contain aggregations of data records or files, 
-such as sales transactions, product catalogs and inventories, and customer 
-profiles.
+<dt>2.In the Linux OS, what is the swap area used for?</dt>
+<dd>Answer:It's a space on disk, used when the amount of physical RAM is full.</dd>
+<dd>Explanation:Swap is a space on a disk that is used when the 
+amount of physical RAM memory is full. 
+When a Linux system runs out of RAM, inactive pages are moved from the 
+RAM to the swap space. 
+Swap space can take the form of either a dedicated 
+swap partition or a swap file
 </dd>
 </div>
+
+<div class = ans>
+<dt>3.What device is this?</dt>
+<dd>Answer: 3D Printer</dd>
+<dd>Explanation:3D printing or additive manufacturing is a process of making 
+three dimensional solid objects from a digital file.
+The creation of a 3D printed object is achieved using 
+additive processes. 
+In an additive process an object is created by laying 
+down successive layers of material until the object is created.
+ Each of these layers can be seen as a thinly sliced 
+horizontal cross-section of the eventual object.
+3D printing is the opposite of subtractive 
+manufacturing which is cutting out / hollowing out a piece of 
+metal or plastic with for instance a milling machine.
+3D printing enables you to produce complex shapes using less
+ material than traditional manufacturing methods.
+</dd>
+</div>
+
+<div class = ans>
+<dt>4.What is the meaning of GIGO?</dt>
+<dd>Answer: Garbage In Garbage Out</dd>
+<dd>Explanation: Stands for "Garbage In, Garbage Out." 
+GIGO is a computer science acronym that implies bad input 
+will result in bad output.
+Because computers operate using strict logic, 
+invalid input may produce unrecognizable output, or "garbage." 
+For example, if a program asks for an integer and you enter a string, 
+you may get an unexpected result. 
+Similarly, if you try to open a binary file in a text editor, 
+it may display unreadable conten
+</dd>
+</div>
+
+<div class = ans>
+<dt>5.Where does the @ symbol come from?
+</dt>
+<dd>Answer: from Latin</dd>
+<dd>Explanation:The origin of the symbol itself, one of
+ the most graceful characters on the keyboard, is something of a mystery. 
+One theory is that medieval monks, looking for shortcuts while copying 
+manuscripts, converted the Latin word for “toward”—ad—to “a” with the back 
+part of the “d” as a tail. Or it came from the French word for “at”—à—and 
+scribes, striving for efficiency, swept the nib of the pen around the top and 
+side. Or the symbol evolved from an abbreviation of “each at”—the “a” being 
+encased by an “e.” The first documented use was in 1536, in a letter by 
+Francesco Lapi, a Florentine merchant, who used @ to denote units of wine 
+called amphorae, which were shipped in large clay jars.
+</dd>
+</div>
+
+<div class = ans>
+<dt>6.Which I.T company has its headquarters in Silicon Valley?
+</dt>
+<dd>Answer: Cisco</dd>
+<dd>Explanation: Cisco develops, manufactures and sells networking hardware, 
+telecommunications equipment and other high-technology services and products.
+</dd>
+</div>
+
+<div class = ans>
+<dt>7.Which company invented the GUI?</dt>
+<dd>Answer: Xerox PARC</dd>
+<dd>Explanation:  Engelbart's work directly led to the advances at 
+Xerox PARC. Several people went from SRI to Xerox PARC in the early 
+1970s. In 1973, Xerox PARC developed the Alto personal computer. 
+It had a bitmapped screen, and was the first computer to demonstrate 
+the desktop metaphor and graphical user interface (GUI).
+</dd>
+</div>
+
+<div class = ans>
+<dt>8.When was the first CPU invented?</dt>
+<dd>Answer: 1971.</dd>
+<dd>Explanation: Intel's first microprocessor, the 4004, was conceived by 
+Ted Hoff and Stanley Mazor. Assisted by Masatoshi Shima, 
+Federico Faggin used his experience in silicon-gate MOS technology 
+(1968 Milestone) to squeeze the 2300 transistors of the 4-bit MPU into a 
+16-pin package in 1971.
+</dd>
+</div>
+
+<div class = ans>
+<dt>9.What lanC++, Swift, Obj-Cguages is the MacOS written in?</dt>
+<dd>Answer: C++, Swift, Obj-C</dd>
+<dd>Explanation: macOS is a series of graphical operating systems developed and 
+marketed by Apple Inc. since 2001. 
+It is the primary operating system for Apple's Mac family of computers. 
+Within the market of desktop, laptop and home computers, and by web usage, 
+it is the second most widely used desktop OS, after Microsoft Windows.
+</dd>
+</div>
+
+<div class = ans>
+<dt>10.What protocol is used to access emails on the internet?</dt>
+<dd>Answer: IMAP (Internet Message Access Protocol).</dd>
+<dd>Explanation:IMAP (Internet Message Access Protocol) is a standard email 
+protocol that 
+stores email messages on a mail server, but allows the end user to 
+view and manipulate the messages as though they were stored 
+locally on the end user's computing device(s).
+
+</dd>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
