@@ -267,7 +267,7 @@ locally on the end user's computing device(s).
 
 </div>
 
-<div class="link"><a href="index.php">Click Here To Restart.</a></div>
+<div class="link"><a class="restart" href="index.php">Click Here To Restart As a New User.</a></div>
 
 </div>
 </body>

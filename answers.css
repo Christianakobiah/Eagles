@@ -67,17 +67,20 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 }
 
-div.link a{
+div.link a.restart{
+display: block;
 text-align: center;
-
-
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: none;
+padding: 5px;
 }
 
+a.restart:hover{
+color: white;
+background-color: #808080;
+border-radius: 5px;
 
-
-
-
-
+}
 
 
 /* Extra small devices (phones, 600px and down) */
