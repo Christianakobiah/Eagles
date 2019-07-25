@@ -126,7 +126,7 @@ if they have permission, get information from any other computer
 <dt>10.What is GitHub used for?
 </dt>
 <dd class="ans">Answer: Project Management</dd>
-<dd>Explanation:Explanation: Git is a command-line tool, but the center 
+<dd>Explanation: Git is a command-line tool, but the center 
 around which all things involving Git revolve is the hub. 
 GitHub.com—where developers store 
 their projects and network with like minded people.
