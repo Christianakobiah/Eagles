@@ -3,8 +3,8 @@
 }
 
 body.wholeshow {
-    background-color: #4897D8; /*electric-blue*/
-   
+    /* background-color: #4897D8; electric-blue */
+   background: url('img/indexBack.jpg');
 }
 
 label {
