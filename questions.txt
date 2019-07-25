@@ -1,0 +1,199 @@
+.1 Can you identify the device? 
+ Ans: Raspberry Pi.
+ Explanation: The Raspberry Pi is a low cost, credit-card sized computer that 
+ plugs into a computer monitor or TV, 
+ and uses a standard keyboard and mouse. 
+ It is a capable little device that enables people of all 
+ ages to explore computing, and to learn how to program in languages like Scratch and Python.
+
+2. What does HTML stand for?
+Ans: HyperText Markup Language
+Explanation: Short for HyperText Markup Language, the authoring language 
+used to create documents on the World Wide Web. HTML is similar to SGML, 
+although it is not a strict subset. 
+HTML defines the structure and layout of a 
+Web document by using a variety of tags and attributes.
+
+3.What device is this?
+Ans: Monitor
+Explanation: A computer monitor is an output device that 
+displays information in pictorial form. 
+A monitor usually comprises the display device, circuitry, casing, 
+and power supply.
+Older monitors used a cathode ray tube (CRT).
+
+4.What does CSS stand for?
+Ans: Cascading Style Sheets
+Explanation:It processes the document in two stages: 
+The browser converts HTML and CSS into the DOM (Document Object Model). 
+The DOM represents the document in the computer's memory. 
+It combines the document's content with its style.
+
+5.What is this cable used for?
+Ans: Connecting PCs
+Explanation: An Ethernet cable is the most common type of network 
+cable used on a wired network whether at home or in any other business 
+establishment. 
+This cable connects wired devices together to the local network for 
+file sharing and Internet access.
+
+6.What does JS stand for?
+Ans: Javascript.
+Explanation:Javascript is a client scripting language which is 
+used for creating web pages. It is a standalone language developed in Netscape. 
+It is used when a webpage is to be made dynamic and add 
+special effects on pages like rollover, roll out and many types of graphics.
+
+7.What is IOT?
+Answer: Internet Of Things.
+Explanation: The internet of things, or IoT, is a system of interrelated 
+computing devices, mechanical and digital machines, objects, animals 
+or people that are provided with unique identifiers ( UIDs ) and 
+the ability to transfer data over a 
+network without requiring human-to-human or human-to-computer interaction.
+
+8.Who is a Hacker?
+Answer:A person who accesses computer networks illegally.
+Explanantion:Computer hackers are unauthorized users who break into 
+computer systems in order to steal, change or destroy information, 
+often by installing dangerous malware without your knowledge or consent. 
+Their clever tactics and detailed technical knowledge help them access the 
+information you really don't want them to have.
+
+9.Who controls the Internet?
+Answer: The Internet is not centralized.
+Explanation:The Internet, sometimes called simply "the Net," 
+is a worldwide system of computer networks - 
+a network of networks in which users at any one computer can, 
+if they have permission, get information from any other computer 
+(and sometimes talk directly to users at other computers).
+
+10.What is Github used for?
+Answer: Project Management.
+Explanation: Git is a command-line tool, but the center 
+around which all things involving Git revolve is the hub. 
+GitHub.com—where developers store 
+their projects and network with like minded people.
+
+
+
+-------STAGE 2-----------
+
+
+1.What is a database?
+Answer:A storage area for all kinds of data.
+Explanation: A database is a collection of information that is organized 
+so that it can be easily accessed, managed and updated.
+Computer databases typically contain aggregations of data records or files, 
+such as sales transactions, product catalogs and inventories, and customer 
+profiles.
+
+2.In the Linux OS, what is the swap area used for?
+Answer: It's a space on disk, used when the amount of physical RAM is full.
+Explanation: Swap is a space on a disk that is used when the 
+amount of physical RAM memory is full. 
+When a Linux system runs out of RAM, inactive pages are moved from the 
+RAM to the swap space. 
+Swap space can take the form of either a dedicated 
+swap partition or a swap file
+
+3. What device is this?
+Answer: 3D Printer.
+Explanation: 3D printing or additive manufacturing is a process of making 
+three dimensional solid objects from a digital file.
+The creation of a 3D printed object is achieved using 
+additive processes. 
+In an additive process an object is created by laying 
+down successive layers of material until the object is created.
+ Each of these layers can be seen as a thinly sliced 
+horizontal cross-section of the eventual object.
+3D printing is the opposite of subtractive 
+manufacturing which is cutting out / hollowing out a piece of 
+metal or plastic with for instance a milling machine.
+3D printing enables you to produce complex shapes using less
+ material than traditional manufacturing methods.
+
+4.What is the meaning of GIGO?
+Answer: Garbage In Garbage Out.
+Explanation: Stands for "Garbage In, Garbage Out." 
+GIGO is a computer science acronym that implies bad input 
+will result in bad output.
+Because computers operate using strict logic, 
+invalid input may produce unrecognizable output, or "garbage." 
+For example, if a program asks for an integer and you enter a string, 
+you may get an unexpected result. 
+Similarly, if you try to open a binary file in a text editor, 
+it may display unreadable content.
+
+5.Where does the @ symbol come from?
+Answer: from Latin
+Explanation: The origin of the symbol itself, one of
+ the most graceful characters on the keyboard, is something of a mystery. 
+One theory is that medieval monks, looking for shortcuts while copying 
+manuscripts, converted the Latin word for “toward”—ad—to “a” with the back 
+part of the “d” as a tail. Or it came from the French word for “at”—à—and 
+scribes, striving for efficiency, swept the nib of the pen around the top and 
+side. Or the symbol evolved from an abbreviation of “each at”—the “a” being 
+encased by an “e.” The first documented use was in 1536, in a letter by 
+Francesco Lapi, a Florentine merchant, who used @ to denote units of wine 
+called amphorae, which were shipped in large clay jars.
+
+6.Which I.T company has its headquarters in Silicon Valley?
+Answer: Cisco
+Explanation: Cisco develops, manufactures and sells networking hardware, 
+telecommunications equipment and other high-technology services and products.
+
+7.Which company invented the GUI?
+Answer: Xerox PARC
+Explanation: Engelbart's work directly led to the advances at 
+Xerox PARC. Several people went from SRI to Xerox PARC in the early 
+1970s. In 1973, Xerox PARC developed the Alto personal computer. 
+It had a bitmapped screen, and was the first computer to demonstrate 
+the desktop metaphor and graphical user interface (GUI).
+
+8.When was the first CPU invented?
+Answer:1971
+Explanation: Intel's first microprocessor, the 4004, was conceived by 
+Ted Hoff and Stanley Mazor. Assisted by Masatoshi Shima, 
+Federico Faggin used his experience in silicon-gate MOS technology 
+(1968 Milestone) to squeeze the 2300 transistors of the 4-bit MPU into a 
+16-pin package in 1971.
+
+9.What languages is the MacOS written in?
+Answer: C++, Swift, Obj-C
+Explanation:macOS is a series of graphical operating systems developed and 
+marketed by Apple Inc. since 2001. 
+It is the primary operating system for Apple's Mac family of computers. 
+Within the market of desktop, laptop and home computers, and by web usage, 
+it is the second most widely used desktop OS, after Microsoft Windows.
+
+10.What protocol is used to access emails on the internet?
+Answer: IMAP (Internet Message Access Protocol).
+Explanation:IMAP (Internet Message Access Protocol) is a standard email 
+protocol that 
+stores email messages on a mail server, but allows the end user to 
+view and manipulate the messages as though they were stored 
+locally on the end user's computing device(s).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
