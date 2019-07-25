@@ -15,7 +15,7 @@ session_start();
 <body>
 <div class="container">
 <img src= "img/congrats.png" alt="congrat"/>
-<div class="user"><?php echo "Hello " . $_SESSION['username'] . " these are the answers to all the questions" ?></div>
+<div class="user"><h1><?php echo "Hello " . $_SESSION['username'] . " these are the answers to all the questions" ?></h1></div>
 <div id="answers">
 <dl>
 <div class = "ans">
