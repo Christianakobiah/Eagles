@@ -14,6 +14,7 @@ session_start();
 </head>
 <body>
 <div class="container">
+<img src= "img/congrats.png" alt="congrat"/>
 <div class="user"><?php echo "Hello " . $_SESSION['username'] . " these are the answers to all the questions" ?></div>
 <div id="answers">
 <dl>

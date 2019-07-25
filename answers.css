@@ -1,11 +1,45 @@
 body{
+    margin: 0px;
+    padding: 0px;
     background-color: #808080;
 }
 
 .container{
 background-color:white;
-padding: 10px;
+padding: 15px;
 border-radius: 5px;
+
+
+}
+
+.user{
+    text-align: center;
+    margin-top: 15px;
+    font-family:'Helvetica Neue','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.ans{
+    margin: 25px auto;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 9px 8px 0px rgba(0, 0, 0, 0.67);
+    padding: 10px;
+}
+
+.stage2{
+
+}
+
+#answers{
+
 
 
 }

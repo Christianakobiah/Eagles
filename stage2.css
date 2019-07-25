@@ -163,6 +163,8 @@ body{
     text-align: center;
 }
 
+
+
 #scoreContainer1 a{
     position: absolute;
     display: inline;
@@ -174,6 +176,20 @@ body{
     font-weight: bold;
     text-align: center;
     text-decoration: none;
+}
+
+#scoreContainer1 a.view{
+    position: absolute;
+    display: inline;
+    /* width : 100px;
+    height :59px; */
+    top:300px;
+    left:150px;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+
 }
 
 #scoreContainer1 a:hover{

@@ -213,7 +213,7 @@ function scoreRender(){
     scoreDiv.innerHTML = "<img src="+ img +">";
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
     scoreDiv.innerHTML += "<a href ='index.php'>Click to Start As New User .</a> ";
-    scoreDiv.innerHTML += "<a href ='index.php'>Click to view all answers.</a> ";
+    scoreDiv.innerHTML += "<a class = 'view' href ='answers.php'>Click to view all answers.</a> ";
 
 
    
