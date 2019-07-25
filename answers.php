@@ -253,7 +253,7 @@ it is the second most widely used desktop OS, after Microsoft Windows.
 </div>
 
 <div class = ans>
-<dt>10.What protocol is used to access emails on the internet?</dt>
+<dt>10.What is one of the protocols used to access emails on the internet?</dt>
 <dd class="ans">Answer: IMAP (Internet Message Access Protocol).</dd>
 <dd>Explanation:IMAP (Internet Message Access Protocol) is a standard email 
 protocol that 
@@ -263,28 +263,12 @@ locally on the end user's computing device(s).
 
 </dd>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </dl>
+
 </div>
+
+<div class="link"><a href="index.php">Click Here To Restart.</a></div>
+
 </div>
 </body>
 

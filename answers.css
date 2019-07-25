@@ -67,8 +67,22 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 }
 
-#answers{
-
+div.link a{
+text-align: center;
 
 
 }
+
+
+
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {
+
+
+
+} */

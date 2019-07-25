@@ -10,8 +10,7 @@ const counter = document.getElementById("counter");
 const timeGauge = document.getElementById("timeGauge");
 const progress = document.getElementById("progress");
 const scoreDiv = document.getElementById("scoreContainer");
-const wrong = document.getElementById("wrong");
-
+const scoreDiv1 = document.getElementById("scoreContainer1");
 // create our questions
 let questions = [
     {
@@ -219,13 +218,18 @@ function scoreRender(){
     let img = (scorePerCent >= 80) ? "img/5.png" :
               (scorePerCent >= 60) ? "img/4.png" :
               (scorePerCent >= 40) ? "img/3.png" :
-              (scorePerCent >= 20) ? "img/2.png" :
+              (scorePerCent >= 20) ? "img/2.png" : 
               "img/1.png";
     
+    let redo = (scorePerCent < 50) ? "<a class='stage'href = index.php> Redo Quiz </a>":
+     "<a class='stage'href ='stage2.php'>Click to go to Next Stage.</a> ";
+    ;
+
+
     scoreDiv.innerHTML = "<img src="+ img +">";
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
-    scoreDiv.innerHTML += "<a class='stage'href ='stage2.php'>Click to go to Next Stage.</a> ";
-
+    scoreDiv.innerHTML += "<div>" + redo + "</div>";
+    // scoreDiv.innerHTML += "<a class='stage'href ='stage2.php'>Click to go to Next Stage.</a> ";
 
    
 }
