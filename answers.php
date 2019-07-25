@@ -20,7 +20,7 @@ session_start();
 <dl>
 <div class = "ans">
 <dt>1. Can you identify the device? </dt>
-<dd> Ans: Raspberry Pi.</dd>
+<dd class="ans"> Ans: Raspberry Pi.</dd>
 <dd>Explanation: The Raspberry Pi is a low cost, credit-card sized computer that 
  plugs into a computer monitor or TV, 
  and uses a standard keyboard and mouse. 
@@ -32,7 +32,7 @@ session_start();
 <div class = ans>
 <dt>2. What does HTML stand for?
 </dt>
-<dd> Ans: HyperText Markup Language</dd>
+<dd class = "ans"> Ans: HyperText Markup Language</dd>
 <dd>Explanation: Short for HyperText Markup Language, the authoring language 
 used to create documents on the World Wide Web. HTML is similar to SGML, 
 although it is not a strict subset. 
@@ -43,7 +43,7 @@ Web document by using a variety of tags and attributes.
 
 <div class = ans>
 <dt>3.What device is this?</dt>
-<dd>Ans: Monitor</dd>
+<dd class="ans">Ans: Monitor</dd>
 <dd>Explanation: A computer monitor is an output device that 
 displays information in pictorial form. 
 A monitor usually comprises the display device, circuitry, casing, 
@@ -54,7 +54,7 @@ Older monitors used a cathode ray tube (CRT).
 
 <div class = ans>
 <dt>4.What does CSS stand for? </dt>
-<dd>Ans: Cascading Style Sheets</dd>
+<dd class="ans">Ans: Cascading Style Sheets</dd>
 <dd>Explanation: It processes the document in two stages: 
 The browser converts HTML and CSS into the DOM (Document Object Model). 
 The DOM represents the document in the computer's memory. 
@@ -65,7 +65,7 @@ It combines the document's content with its style.
 <div class = ans>
 <dt>5.What is this cable used for?
 </dt>
-<dd>Ans: Connecting PCs</dd>
+<dd class = "ans">Ans: Connecting PCs</dd>
 <dd>Explanation: An Ethernet cable is the most common type of network 
 cable used on a wired network whether at home or in any other business 
 establishment. 
@@ -77,7 +77,7 @@ file sharing and Internet access.
 <div class = ans>
 <dt>6.What does JS stand for?
 </dt>
-<dd>Ans: Javascript</dd>
+<dd class = "ans">Ans: Javascript</dd>
 <dd>Explanation:Javascript is a client scripting language which is 
 used for creating web pages. It is a standalone language developed in Netscape. 
 It is used when a webpage is to be made dynamic and add 
@@ -88,7 +88,7 @@ special effects on pages like rollover, roll out and many types of graphics.
 <div class = ans>
 <dt>7.What is IOT?
 </dt>
-<dd>Ans: Internet Of Things</dd>
+<dd class = "ans">Ans: Internet Of Things</dd>
 <dd>Explanation: The internet of things, or IoT, is a system of interrelated 
 computing devices, mechanical and digital machines, objects, animals 
 or people that are provided with unique identifiers ( UIDs ) and 
@@ -100,7 +100,7 @@ network without requiring human-to-human or human-to-computer interaction.
 <div class = ans>
 <dt>8.Who is a Hacker?
 </dt>
-<dd>Answer:A person who accesses computer networks illegally.
+<dd class="ans">Answer:A person who accesses computer networks illegally.
 </dd>
 <dd>Explanation:Computer hackers are unauthorized users who break into 
 computer systems in order to steal, change or destroy information, 
@@ -113,7 +113,7 @@ information you really don't want them to have.
 <div class = ans>
 <dt>9.Who controls the Internet?
 </dt>
-<dd>Answer: The Internet is not centralized.</dd>
+<dd class="ans">Answer: The Internet is not centralized.</dd>
 <dd>Explanation:The Internet, sometimes called simply "the Net," 
 is a worldwide system of computer networks - 
 a network of networks in which users at any one computer can, 
@@ -125,7 +125,7 @@ if they have permission, get information from any other computer
 <div class = ans>
 <dt>10.What is GitHub used for?
 </dt>
-<dd>Answer: Project Management</dd>
+<dd class="ans">Answer: Project Management</dd>
 <dd>Explanation:Explanation: Git is a command-line tool, but the center 
 around which all things involving Git revolve is the hub. 
 GitHub.com—where developers store 
@@ -138,7 +138,7 @@ their projects and network with like minded people.
 
 <div class = ans>
 <dt>1.What is a database?</dt>
-<dd>Answer: A storage area for all kinds of data.</dd>
+<dd class="ans">Answer: A storage area for all kinds of data.</dd>
 <dd>Explanation: A database is a collection of information that is organized 
 so that it can be easily accessed, managed and updated.
 Computer databases typically contain aggregations of data records or files, 
@@ -149,7 +149,7 @@ profiles.
 
 <div class = ans>
 <dt>2.In the Linux OS, what is the swap area used for?</dt>
-<dd>Answer:It's a space on disk, used when the amount of physical RAM is full.</dd>
+<dd class="ans">Answer:It's a space on disk, used when the amount of physical RAM is full.</dd>
 <dd>Explanation:Swap is a space on a disk that is used when the 
 amount of physical RAM memory is full. 
 When a Linux system runs out of RAM, inactive pages are moved from the 
@@ -161,7 +161,7 @@ swap partition or a swap file
 
 <div class = ans>
 <dt>3.What device is this?</dt>
-<dd>Answer: 3D Printer</dd>
+<dd class="ans">Answer: 3D Printer</dd>
 <dd>Explanation:3D printing or additive manufacturing is a process of making 
 three dimensional solid objects from a digital file.
 The creation of a 3D printed object is achieved using 
@@ -180,7 +180,7 @@ metal or plastic with for instance a milling machine.
 
 <div class = ans>
 <dt>4.What is the meaning of GIGO?</dt>
-<dd>Answer: Garbage In Garbage Out</dd>
+<dd class="ans">Answer: Garbage In Garbage Out</dd>
 <dd>Explanation: Stands for "Garbage In, Garbage Out." 
 GIGO is a computer science acronym that implies bad input 
 will result in bad output.
@@ -196,7 +196,7 @@ it may display unreadable conten
 <div class = ans>
 <dt>5.Where does the @ symbol come from?
 </dt>
-<dd>Answer: from Latin</dd>
+<dd class="ans">Answer: from Latin</dd>
 <dd>Explanation:The origin of the symbol itself, one of
  the most graceful characters on the keyboard, is something of a mystery. 
 One theory is that medieval monks, looking for shortcuts while copying 
@@ -213,7 +213,7 @@ called amphorae, which were shipped in large clay jars.
 <div class = ans>
 <dt>6.Which I.T company has its headquarters in Silicon Valley?
 </dt>
-<dd>Answer: Cisco</dd>
+<dd class="ans">Answer: Cisco</dd>
 <dd>Explanation: Cisco develops, manufactures and sells networking hardware, 
 telecommunications equipment and other high-technology services and products.
 </dd>
@@ -221,7 +221,7 @@ telecommunications equipment and other high-technology services and products.
 
 <div class = ans>
 <dt>7.Which company invented the GUI?</dt>
-<dd>Answer: Xerox PARC</dd>
+<dd class="ans">Answer: Xerox PARC</dd>
 <dd>Explanation:  Engelbart's work directly led to the advances at 
 Xerox PARC. Several people went from SRI to Xerox PARC in the early 
 1970s. In 1973, Xerox PARC developed the Alto personal computer. 
@@ -232,7 +232,7 @@ the desktop metaphor and graphical user interface (GUI).
 
 <div class = ans>
 <dt>8.When was the first CPU invented?</dt>
-<dd>Answer: 1971.</dd>
+<dd class="ans">Answer: 1971.</dd>
 <dd>Explanation: Intel's first microprocessor, the 4004, was conceived by 
 Ted Hoff and Stanley Mazor. Assisted by Masatoshi Shima, 
 Federico Faggin used his experience in silicon-gate MOS technology 
@@ -243,7 +243,7 @@ Federico Faggin used his experience in silicon-gate MOS technology
 
 <div class = ans>
 <dt>9.What languages is the MacOS written in?</dt>
-<dd>Answer: C++, Swift, Obj-C</dd>
+<dd class="ans">Answer: C++, Swift, Obj-C</dd>
 <dd>Explanation: macOS is a series of graphical operating systems developed and 
 marketed by Apple Inc. since 2001. 
 It is the primary operating system for Apple's Mac family of computers. 
@@ -254,7 +254,7 @@ it is the second most widely used desktop OS, after Microsoft Windows.
 
 <div class = ans>
 <dt>10.What protocol is used to access emails on the internet?</dt>
-<dd>Answer: IMAP (Internet Message Access Protocol).</dd>
+<dd class="ans">Answer: IMAP (Internet Message Access Protocol).</dd>
 <dd>Explanation:IMAP (Internet Message Access Protocol) is a standard email 
 protocol that 
 stores email messages on a mail server, but allows the end user to 
