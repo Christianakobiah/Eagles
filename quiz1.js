@@ -69,7 +69,7 @@ let questions = [
         choiceC : "In Out Things",
         correct : "A"
     },{
-        question : "Who is a Hacker?",
+        question : "Who is a Black Hat Hacker?",
         imgSrc : "img/hacker2.jpg",
         choiceA : "A person who cuts trees",
         choiceB : "A person who accesses computer networks illegally.",

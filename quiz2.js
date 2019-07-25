@@ -85,7 +85,7 @@ let questions = [
         correct : "A"
     },
     {
-        question : "What protocol is used to access the e-mails on the internet?",
+        question : "What is one of the protocols used to access e-mails on the internet?",
         imgSrc : "img/mail.png",
         choiceA : "IMAP",
         choiceB : "IP Address",

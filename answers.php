@@ -15,7 +15,7 @@ session_start();
 <body>
 <div class="container">
 <img src= "img/congrats.png" alt="congrat"/>
-<div class="user"><h1><?php echo "Hello " . $_SESSION['username'] . " these are the answers to the questions" ?></h1></div>
+<div class="user"><h1><?php echo "Hello " . $_SESSION['username'] . ", these are the answers to the questions" ?></h1></div>
 <div id="answers">
 <dl>
 <div class = "ans">
@@ -98,7 +98,7 @@ network without requiring human-to-human or human-to-computer interaction.
 </div>
 
 <div class = ans>
-<dt>8.Who is a Hacker?
+<dt>8.Who is a Black Hat Hacker?
 </dt>
 <dd class="ans">Answer:A person who accesses computer networks illegally.
 </dd>
