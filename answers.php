@@ -242,7 +242,7 @@ Federico Faggin used his experience in silicon-gate MOS technology
 </div>
 
 <div class = ans>
-<dt>9.What lanC++, Swift, Obj-Cguages is the MacOS written in?</dt>
+<dt>9.What languages is the MacOS written in?</dt>
 <dd>Answer: C++, Swift, Obj-C</dd>
 <dd>Explanation: macOS is a series of graphical operating systems developed and 
 marketed by Apple Inc. since 2001. 
