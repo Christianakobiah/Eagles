@@ -221,7 +221,7 @@ function scoreRender(){
               (scorePerCent >= 20) ? "img/2.png" : 
               "img/1.png";
     
-    let redo = (scorePerCent < 50) ? "<a class='stage'href = index.php> Redo Quiz </a>":
+    let redo = (scorePerCent < 50) ? "<a class='stage'href = index2.php> Redo Quiz </a>":
      "<a class='stage'href ='stage2.php'>Click to go to Next Stage.</a> ";
     ;
 
